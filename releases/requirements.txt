@@ -1,0 +1,7 @@
+requests~=2.25.1
+asyncio>=3.4.3
+setuptools>=51.0.0
+pytest~=6.2.2
+jsonpath-ng
+jsoncomparison>=1.0.1
+wheel

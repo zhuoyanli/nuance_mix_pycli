@@ -1,0 +1,14 @@
+**/__pycache
+**/*.pyc
+**/*bak
+/*json
+/bak
+/tmp*
+**/.pytest_cache
+/tests/**/.pytest_cache
+/releases/*egg-info/
+/releases/build/
+/releases/dist/
+/pydocs/build/*
+!/pydocs/build/.gitkeep
+/work/
